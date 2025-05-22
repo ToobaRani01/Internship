@@ -8,8 +8,12 @@ I set up a Conda environment (ai_ml_env) and installed key libraries. I explored
 I explored supervised learning by applying Linear Regression to predict housing prices and evaluating performance using Root Mean Squared Error (RMSE) and Mean Squared Error (MSE). For classification, I implemented Logistic Regression on the Iris dataset, refining feature selection and model accuracy.
 Using scikit-learn, I practiced key functions such as train_test_split, fit(), predict(), and evaluation metrics like accuracy_score.
 Mini-Assignment: Titanic Survival Prediction
+
 As part of my classification task, I built a Logistic Regression model to predict passenger survival rates in the Titanic dataset. I:
+
 ✅ Preprocessed data, handling missing values and encoding categorical features.
+
 ✅ Trained and evaluated the model using accuracy metrics.
+
 ✅ Visualized performance through a confusion matrix and survival distribution plots.
 
